@@ -9,7 +9,7 @@ Utils for basic file and directory operations.
 
 ### Dependencies
 
-* Require sdcard.py from MicroPython lib (include in this repo)
+* Require sdcard.py from MicroPython lib (included in this repo)
 
 ### Example
 
